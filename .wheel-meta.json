@@ -1,0 +1,19 @@
+{
+  "wheel_id": 343,
+  "structure": "umbrella",
+  "slug": "ballaratmortgagebroker-com-103",
+  "project": "mortgage-broker-ballarat-comparison-1d5639ab203c1b471a77972a298",
+  "parent_t1_ref": "ballaratmortgagebroker-com-151",
+  "node_role": "feeder",
+  "money_target": "ballaratmortgagebroker.com.au",
+  "primary_kw": "mortgage broker ballarat comparison",
+  "intended_url": "https://sitesau.github.io/ballaratmortgagebroker-com-103/",
+  "writeback_nonce": "9be78bf14ee4b29a",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/mortgage-broker-ballarat-7c1221ed77ea8bda10dc9d3f9a7875529c63c0/",
+      "anchor": "mortgage broker ballarat",
+      "rel": "follow"
+    }
+  ]
+}
